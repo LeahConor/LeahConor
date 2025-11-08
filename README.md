@@ -3,7 +3,7 @@
     <img src="cute-anime-profile-pictures-k6h3uqxn6ei77kgl.jpg" alt="my pfpppp" width="160" height="160" style="border-radius:12px;border:2px solid rgba(0,0,0,0.08);" />
   </a>
 </p>
-
+<h1 align="center">New to Github!!</h1>
 <h1 align="center">Hey! 👋</h1>
 <h2 align="center">A bit about me</h2>
 
