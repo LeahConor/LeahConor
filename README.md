@@ -20,7 +20,7 @@
 </p>
 
 
-<h2 align="center">🛠️ Languages &amp; Tools</h2>
+<h2 align="center">Languages &amp; Tools</h2>
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
