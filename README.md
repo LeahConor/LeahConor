@@ -18,3 +18,12 @@
 <p align="center" style="max-width:760px;line-height:1.5;">
   Hey — I’m Leah. I swim every day and I’ve been averaging ~19k steps a day since I was 13 (I walk a ton). I love hanging with friends — beach days, grabbing food, or just chilling at home. Coding’s my favorite thing to do; I build stuff with HTML, CSS, and JavaScript, and I mess around with Bash sometimes. Also — big <b>Stranger Things</b> fan.
 </p>
+
+
+<h2 align="center">🛠️ Languages &amp; Tools</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bash,git,github,vscode" />
+  </a>
+</p>
